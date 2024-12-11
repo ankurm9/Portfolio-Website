@@ -6,43 +6,13 @@ export const HERO_CONTENT = `I am a final-year Bachelor’s student specializing
 
 export const ABOUT_TEXT = `I am a detail-oriented and highly motivated individual pursuing a Bachelor's degree in engineering, specializing in Python and machine learning. My work spans across predictive modeling, data analytics, and AI development, focusing on creating impactful and user-friendly applications. Through hands-on experience in projects, I have honed my skills in tools like Numpy, Pandas, and Scikit-learn. I thrive on solving complex problems and am eager to bring my expertise to dynamic and challenging environments.`;
 
-// export const EXPERIENCES = [
-//   {
-//     year: "2025 (Expected)",
-//     role: "B.Tech in Computer Science and Engineering with an specialization in Artificial Intelligence and Machine Learning",
-//     institution: "Board of Higher Secondary Education, Maharashtra",
-//     description: `Currently pursuing my Bachelor’s in Technology, specializing in Python, data analytics, and machine learning. Key areas of study include exploratory data analysis, predictive modeling, and building AI-driven applications.`,
-//     technologies: ["Python", "C++", "Numpy", "Pandas", "Scikit-learn"],
-//   },
-// ];
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
-  },
-  {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "2025 (Expected)",
+    role: "B.Tech in Computer Science and Engineering with an specialization in Artificial Intelligence and Machine Learning",
+    institution: "Board of Higher Secondary Education, Maharashtra",
+    description: `Currently pursuing my Bachelor’s in Technology, specializing in Python, data analytics, and machine learning. Key areas of study include exploratory data analysis, predictive modeling, and building AI-driven applications.`,
+    technologies: ["Python", "C++", "React", "Pandas", "Scikit-learn"],
   },
 ];
 
@@ -71,8 +41,8 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Maharashtra, India",
-  phoneNo: "+91 12345 67890",
-  email: "your.email@example.com",
+  address: "Pune, India",
+  phoneNo: "+91 86006 68117",
+  email: "ankurmaddewad7@gmail.com",
 };
 

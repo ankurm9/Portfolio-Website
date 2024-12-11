@@ -1,4 +1,4 @@
-import logo from "../assets/AM.png"; 
+import logo from "../assets/logo.png"; 
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
